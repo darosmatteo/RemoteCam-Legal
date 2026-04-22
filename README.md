@@ -1,8 +1,6 @@
 <style> header, .page-header { display: none !important; } </style>
 # **Privacy Policy**
 
-### **RemoteCam**
-
 **Effective Date:** 20-Apr-2026
 
 This Privacy Policy applies to the RemoteCam mobile application (the "Application"), created and maintained by Matteo Da Ros (the "Developer" or "Data Controller") as a Freemium service. This service is provided "AS IS," without warranties of any kind. By using the Application, you agree to the collection and use of information in relation to this policy. This Privacy Policy is governed by the laws of the Province of Ontario, Canada, without regard to its conflict of law provisions.  
